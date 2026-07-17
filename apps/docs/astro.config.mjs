@@ -21,12 +21,12 @@ export default defineConfig({
                 {
                     icon: "github",
                     label: "Wiz on GitHub",
-                    href: "https://github.com/hazelcaffe/wiz",
+                    href: "https://github.com/wiz-sh/docs",
                 },
             ],
             editLink: {
                 baseUrl:
-                    "https://github.com/hazelcaffe/wiz/edit/main/apps/docs/src/content/docs/",
+                    "https://github.com/wiz-sh/docs/edit/main/apps/docs/src/content/docs/",
             },
             sidebar: [
                 { slug: "" },
